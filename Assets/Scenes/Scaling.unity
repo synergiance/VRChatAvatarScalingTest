@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 1240870}
   - component: {fileID: 1240872}
   - component: {fileID: 1240871}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Eye Height Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 40348896}
   - component: {fileID: 40348898}
   - component: {fileID: 40348897}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -397,7 +397,7 @@ GameObject:
   m_Component:
   - component: {fileID: 62533549}
   - component: {fileID: 62533550}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Mode Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 122152085}
   - component: {fileID: 122152087}
   - component: {fileID: 122152086}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -568,7 +568,7 @@ GameObject:
   - component: {fileID: 136515585}
   - component: {fileID: 136515587}
   - component: {fileID: 136515586}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 139178009}
   - component: {fileID: 139178011}
   - component: {fileID: 139178010}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -721,7 +721,7 @@ GameObject:
   - component: {fileID: 203425515}
   - component: {fileID: 203425514}
   - component: {fileID: 203425513}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Apply Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -850,7 +850,7 @@ GameObject:
   - component: {fileID: 301793243}
   - component: {fileID: 301793245}
   - component: {fileID: 301793244}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -928,7 +928,7 @@ GameObject:
   - component: {fileID: 302168951}
   - component: {fileID: 302168953}
   - component: {fileID: 302168952}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Minimum Height Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1021,7 +1021,7 @@ GameObject:
   - component: {fileID: 305542223}
   - component: {fileID: 305542225}
   - component: {fileID: 305542224}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1097,7 +1097,7 @@ GameObject:
   - component: {fileID: 373263401}
   - component: {fileID: 373263400}
   - component: {fileID: 373263399}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1207,7 +1207,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 405020046}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1245,7 +1245,7 @@ GameObject:
   - component: {fileID: 542731708}
   - component: {fileID: 542731710}
   - component: {fileID: 542731709}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1319,7 +1319,7 @@ GameObject:
   - component: {fileID: 549619407}
   - component: {fileID: 549619409}
   - component: {fileID: 549619408}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1395,7 +1395,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 569041177}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1433,7 +1433,7 @@ GameObject:
   - component: {fileID: 578366801}
   - component: {fileID: 578366803}
   - component: {fileID: 578366802}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1505,7 +1505,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 636833129}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1543,7 +1543,7 @@ GameObject:
   - component: {fileID: 677859213}
   - component: {fileID: 677859215}
   - component: {fileID: 677859214}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1621,7 +1621,7 @@ GameObject:
   - component: {fileID: 740933397}
   - component: {fileID: 740933399}
   - component: {fileID: 740933398}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1693,7 +1693,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 770695952}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1731,7 +1731,7 @@ GameObject:
   - component: {fileID: 777960196}
   - component: {fileID: 777960198}
   - component: {fileID: 777960197}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1809,7 +1809,7 @@ GameObject:
   - component: {fileID: 779939826}
   - component: {fileID: 779939828}
   - component: {fileID: 779939827}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1887,7 +1887,7 @@ GameObject:
   - component: {fileID: 812815279}
   - component: {fileID: 812815281}
   - component: {fileID: 812815280}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1964,7 +1964,7 @@ GameObject:
   m_Component:
   - component: {fileID: 899000303}
   - component: {fileID: 899000304}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Right Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2123,7 +2123,7 @@ GameObject:
   - component: {fileID: 1163060837}
   - component: {fileID: 1163060839}
   - component: {fileID: 1163060838}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Label
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2201,7 +2201,7 @@ GameObject:
   - component: {fileID: 1187496005}
   - component: {fileID: 1187496007}
   - component: {fileID: 1187496006}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2273,7 +2273,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1207165977}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2309,7 +2309,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1228566156}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2347,7 +2347,7 @@ GameObject:
   - component: {fileID: 1240532443}
   - component: {fileID: 1240532445}
   - component: {fileID: 1240532444}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2508,7 +2508,7 @@ GameObject:
   - component: {fileID: 1281036650}
   - component: {fileID: 1281036652}
   - component: {fileID: 1281036651}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2580,7 +2580,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1298477063}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Initial Avatar Height
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2619,7 +2619,7 @@ GameObject:
   - component: {fileID: 1354548121}
   - component: {fileID: 1354548123}
   - component: {fileID: 1354548122}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2693,7 +2693,7 @@ GameObject:
   - component: {fileID: 1382015343}
   - component: {fileID: 1382015345}
   - component: {fileID: 1382015344}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Checkmark
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2767,7 +2767,7 @@ GameObject:
   - component: {fileID: 1386823364}
   - component: {fileID: 1386823366}
   - component: {fileID: 1386823365}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2843,7 +2843,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1393824169}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3035,7 +3035,7 @@ GameObject:
   - component: {fileID: 1429767833}
   - component: {fileID: 1429767835}
   - component: {fileID: 1429767834}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3110,7 +3110,7 @@ GameObject:
   - component: {fileID: 1455989385}
   - component: {fileID: 1455989384}
   - component: {fileID: 1455989383}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Apply Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3237,7 +3237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1496970412}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3274,7 +3274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1540596246}
   - component: {fileID: 1540596247}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Left Pane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3337,7 +3337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1554176422}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Avatar Height Display
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3376,7 +3376,7 @@ GameObject:
   - component: {fileID: 1593067898}
   - component: {fileID: 1593067900}
   - component: {fileID: 1593067899}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3519,7 +3519,7 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 1659431651}
-  enableScalingToggle: {fileID: 0}
+  enableScalingToggle: {fileID: 62533550}
   initialHeightValue: {fileID: 779939827}
   currentHeightValue: {fileID: 301793244}
   currentScaleValue: {fileID: 1928836944}
@@ -3534,7 +3534,7 @@ GameObject:
   - component: {fileID: 1660750144}
   - component: {fileID: 1660750146}
   - component: {fileID: 1660750145}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3611,7 +3611,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1665872779}
   - component: {fileID: 1665872780}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3699,7 +3699,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1670456802}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Avatar Scale Display
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3737,7 +3737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1694726377}
   - component: {fileID: 1694726378}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3827,7 +3827,7 @@ GameObject:
   - component: {fileID: 1701784174}
   - component: {fileID: 1701784176}
   - component: {fileID: 1701784175}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3904,7 +3904,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1762486182}
   - component: {fileID: 1762486183}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3994,7 +3994,7 @@ GameObject:
   - component: {fileID: 1764802629}
   - component: {fileID: 1764802631}
   - component: {fileID: 1764802630}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4068,7 +4068,7 @@ GameObject:
   - component: {fileID: 1859160490}
   - component: {fileID: 1859160492}
   - component: {fileID: 1859160491}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4142,7 +4142,7 @@ GameObject:
   - component: {fileID: 1918078164}
   - component: {fileID: 1918078166}
   - component: {fileID: 1918078165}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4217,7 +4217,7 @@ GameObject:
   - component: {fileID: 1928836943}
   - component: {fileID: 1928836945}
   - component: {fileID: 1928836944}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4295,7 +4295,7 @@ GameObject:
   - component: {fileID: 1958609689}
   - component: {fileID: 1958609691}
   - component: {fileID: 1958609690}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4439,7 +4439,7 @@ GameObject:
   - component: {fileID: 1962173876}
   - component: {fileID: 1962173878}
   - component: {fileID: 1962173877}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Avatar Scale Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4533,7 +4533,7 @@ GameObject:
   - component: {fileID: 2002459818}
   - component: {fileID: 2002459820}
   - component: {fileID: 2002459819}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4611,7 +4611,7 @@ GameObject:
   - component: {fileID: 2031754535}
   - component: {fileID: 2031754537}
   - component: {fileID: 2031754536}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4689,7 +4689,7 @@ GameObject:
   - component: {fileID: 2086734177}
   - component: {fileID: 2086734179}
   - component: {fileID: 2086734178}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Maximum Height Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4781,7 +4781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2134031306}
   - component: {fileID: 2134031307}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
